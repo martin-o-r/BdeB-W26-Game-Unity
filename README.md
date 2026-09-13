@@ -14,3 +14,8 @@ You won't be able to run the game, because the game folder is too large to uploa
 You can find the scripts (code - game logic) in the "Scripts" folder.
 
 ## Screenshots for reference
+![Main menu](GameScreenshots/menu.png)
+![In game](GameScreenshots/inGame.png)
+![Upgrade menu](GameScreenshots/upgradeMenu.png)
+![Special attacks](GameScreenshots/specialAttacks.png)
+![End menu](GameScreenshots/endGame.png)
