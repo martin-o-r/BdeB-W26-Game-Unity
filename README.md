@@ -11,4 +11,6 @@ A game where the player fights enemies, earns points, and unlocks upgrades.
 
 ## Disclaimer
 You won't be able to run the game, because the game folder is too large to upload to GitHub.
-You can find the scripts (code) in the "Scripts" folder.
+You can find the scripts (code - game logic) in the "Scripts" folder.
+
+## Screenshots for reference
